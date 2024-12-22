@@ -3,7 +3,7 @@
 
 <head>
     <title>Login</title>
-    <!-- Copyright: © 2024 Sistem Temu Janji Pasien - dibuat sebagai syarat sertifikasi oleh ilyas kurnia ramadhan -->
+    <!-- Copyright: © 2024 Sistem Temu Janji Pasien - dibuat sebagai syarat sertifikasi oleh rendy -->
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
