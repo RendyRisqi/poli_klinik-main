@@ -10,6 +10,6 @@ password : 1234
 
 username dokter = password dokter
 ```
-username : coba
-password : coba
+username : contoh
+password : contoh
 ```
